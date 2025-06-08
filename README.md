@@ -6,7 +6,7 @@
 - 📫 **How to reach me:** [osoziw@gmail.com](mailto:osoziw@gmail.com)
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I switched careers into tech after studying human nutrition and now blend both worlds by building impactful health-based digital solutions!
-- 
+  
 Sozi-source/Sozi-source is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
