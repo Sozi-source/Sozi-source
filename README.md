@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @Sozi-source
-- 👀 I’m interested in becoming a software developer.
-- 🌱 I’m currently learning front-end web development.
-- 💞️ I’m looking to collaborate on software development projects.
-- 📫 How to reach me: You can reach me through my email: osoziw@gmail.com
-- 😄 Pronouns: 
-- ⚡ Fun fact: 
+- 👋### Hi there, I’m @Sozi-source 👋
 
-<!---
+- 👨‍💻 I’m a **front-end software developer**
+- 🌱 I’m passionate about building applications focused on **health solutions**, but I’m open to **diversifying into other domains**
+- 🤝 I’m looking to **collaborate on software development projects**
+- 📫 **How to reach me:** [osoziw@gmail.com](mailto:osoziw@gmail.com)
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun fact:** I switched careers into tech after studying human nutrition and now blend both worlds by building impactful health-based digital solutions!
+- 
 Sozi-source/Sozi-source is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
