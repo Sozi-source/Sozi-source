@@ -81,9 +81,9 @@ I actively contribute to projects related to:
 
 I’m open to **collaboration, mentorship, and project opportunities**.  
 
-- Email: **wilfred.osozi@example.com**  
-- LinkedIn: [Wilfred Osozi](https://www.linkedin.com/in/wilfred-osozi/)  
-- Twitter: [@WilfredOsozi](https://twitter.com/)  
+- Email: **osoziw@gmail.com**  
+- LinkedIn: https://www.linkedin.com/in/wilfred-osozi/
+- Twitter: https://x.com/OsoziWilfred
 
 ---
 
