@@ -23,22 +23,22 @@ Here are some of my notable projects so far:
 
 1. **Nutrition Assist App**  
    *A mobile app to assess nutritional status and offer nutritious recipes*  
-   🔗 [https://github.com/Sozi-source/Nutrition-Assistant-App (#) | 🌐 https://nutrition-assistant-app.vercel.app  
+   🔗 https://github.com/Sozi-source/Nutrition-Assistant-App | 🌐 https://nutrition-assistant-app.vercel.app  
    **Highlights:** Integrates Firebase for user authentication.
 
 2. **Airbnb Clone Project**  
    *A fully responsive front-end clone of Airbnb.*  
-   🔗 [https://github.com/Sozi-source/alx-listing-app-00](#) | 🌐 [https://airbnbclone-peach-delta.vercel.app/](#)  
+   🔗 https://github.com/Sozi-source/alx-listing-app-00 | 🌐 https://airbnbclone-peach-delta.vercel.app  
    **Highlights:** Demonstrates layout design, UI/UX skills, and React component structure.
 
 3. **Eduka E-commerce Online Shop**  
    *An e-commerce platform for educational resources and products.*  
-   🔗 [https://github.com/Sozi-source/nexusProject](#) | 🌐 [https://e-duka-three.vercel.app/](#)  
+   🔗 https://github.com/Sozi-source/nexusProject  | 🌐 https://e-duka-three.vercel.app  
    **Highlights:** Focus on responsive design, front-end functionality, and user interface.
 
 4. **Weather App**  
    *A React-based app to display real-time weather information using public APIs.*  
-   🔗 [https://github.com/Sozi-source/project_08_2025](#) | 🌐 [https://project-08-2025-ebmf.vercel.app/](#)  
+   🔗 https://github.com/Sozi-source/project_08_2025 | 🌐 https://project-08-2025-ebmf.vercel.app
    **Highlights:** API integration and dynamic data rendering in React.
 
 
