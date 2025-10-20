@@ -42,13 +42,27 @@ Here are some of my notable projects so far:
    **Highlights:** API integration and dynamic data rendering in React.
 
 
-## 📌 Skills
+## 📌 Skills & Expertise
 
-**Languages & Frameworks:** HTML, CSS, JavaScript, React, React Native, Firebase  
-**Tools & Platforms:** Git, GitHub, Postman, VS Code  
-**Soft Skills:** Communication, Collaboration, Creativity, Problem Solving, Leadership, Empathy  
-**Domains:** Health & Nutrition Tech, Educational Apps, E-commerce
+### 💻 Languages & Frameworks
+- **Front-End:** HTML5, CSS3, JavaScript (ES6+), React.js, React Native  
+- **Back-End / Databases:** Firebase (Firestore, Authentication, Realtime DB), basic Node.js concepts  
+- **Other Tech:** REST API integration, JSON, GitHub Pages  
 
+### 🛠 Tools & Platforms
+- **Version Control & Collaboration:** Git, GitHub (branches, commits, pull requests)  
+- **Development Environments:** VS Code, Chrome DevTools, Expo  
+- **Testing & API Tools:** Postman, Firebase Emulator  
+- **Package Management:** npm, yarn, bundlers  
+
+### 🌟 Soft Skills
+- Communication & Presentation  
+- Collaboration & Teamwork  
+- Problem Solving & Critical Thinking  
+- Creativity & Innovation  
+- Leadership & Accountability  
+- Empathy & User-Centric Design
+  
 ---
 
 ## 💡 Open-Source & Collaboration
