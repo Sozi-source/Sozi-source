@@ -58,7 +58,8 @@ I actively contribute to projects related to:
 - Community health and education tech solutions  
 - Interactive educational tools for children  
 
-🔗 Check out my contributions: [GitHub Contributions](https://github.com/wilfred-osozi?tab=overview)
+🔗 Check out my contributions: [GitHub Contributions](https://github.com/<sozi-source>?tab=overview&from=<2024-01-01>&to=<2025-10-15>
+)
 
 ---
 
