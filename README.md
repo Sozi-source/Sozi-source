@@ -119,8 +119,8 @@ I’m open to **collaboration, mentorship, and project opportunities**.
 📌 **Most Used Languages**  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sozi-source&layout=compact&theme=radical)
 
-🔹 **Total Stars Earned:** https://github.com/Sozi-source?tab=stars  
+🔹 **Total Stars Earned:** ![Stars](https://img.shields.io/github/stars/Sozi-source?style=flat-square)  
 🔹 **Total Commits (2025):** ![Commits](https://img.shields.io/github/commit-activity/y/Sozi-source?style=flat-square)  
 🔹 **Total PRs:** ![PRs](https://img.shields.io/github/issues-pr/Sozi-source?style=flat-square)  
-🔹 **Total Issues:** ![Issues](https://img.shields.io/github/issues/Sozi-source?style=flat-square)  
+🔹 **Total Issues:** ![Issues](https://img.shields.io/github/issues/Sozi-source?style=flat-square)
 
