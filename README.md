@@ -23,7 +23,7 @@ Here are some of my notable projects so far:
 
 1. **Nutrition Assist App**  
    *A mobile app to assess nutritional status and offer nutritious recipes*  
-   🔗 [https://github.com/Sozi-source/Nutrition-Assistant-App (#) | 🌐 [https://nutrition-assistant-app.vercel.app/](#)  
+   🔗 [https://github.com/Sozi-source/Nutrition-Assistant-App (#) | 🌐 https://nutrition-assistant-app.vercel.app  
    **Highlights:** Integrates Firebase for user authentication.
 
 2. **Airbnb Clone Project**  
